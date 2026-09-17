@@ -1,15 +1,18 @@
 h1{
-    color:red
+    color:red;
 }
 h2{
-    color: black
+    color: black;
 }
 h3{
-    color: black
+    color: black;
 }
 h4{
-    color:black
+    color:black;
 }
 h4{
-    color: darkred
+    color: darkred;
+}
+body {
+    background-color:black;
 }
